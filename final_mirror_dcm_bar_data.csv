@@ -1,0 +1,285 @@
+,name,cnt,grp,grp_cnt
+0,Sense Death(MC),27,13,180
+1,Electronic interaction(MC),49,13,180
+2,Radar Sense(MC),46,13,180
+3,Danger Sense(MC),58,13,180
+4,Dummy13(MC),0,13,0
+5,Penance Stare(MC),4,14,192
+6,Hellfire Control(MC),15,14,192
+7,Soul Absorption(MC),21,14,192
+8,Darkness Manipulation(MC),25,14,192
+9,Death Touch(MC),34,14,192
+10,Necromancy(MC),44,14,192
+11,Possession(MC),49,14,192
+12,Dummy14(MC),0,14,0
+13,Blood Control(MC),9,11,265
+14,Controlled Bone Growth(MC),13,11,265
+15,Pheromone Control(MC),15,11,265
+16,Enhance Mutation(MC),36,11,265
+17,Genetic Manipulation(MC),56,11,265
+18,Shape Shifter(MC),136,11,265
+19,Dummy11(MC),0,11,0
+20,Inertia Absorption(MC),12,8,272
+21,Magnetism(MC),31,8,272
+22,Gravity control(MC),35,8,272
+23,Vibration Wave(MC),31,8,272
+24,Density Control(MC),35,8,272
+25,Force Field(MC),128,8,272
+26,Dummy8(MC),0,8,0
+27,Sand manipulation(MC),3,7,356
+28,Plant Control(MC),19,7,356
+29,Ice Breath(MC),9,7,356
+30,Flame Breath(MC),22,7,356
+31,Water Control(MC),27,7,356
+32,Ice Control(MC),26,7,356
+33,Earth Manipulation(MC),44,7,356
+34,Weather Control(MC),38,7,356
+35,Wind Bursts(MC),33,7,356
+36,Animal Control(MC),56,7,356
+37,Fire Control(MC),79,7,356
+38,Dummy7(MC),0,7,0
+39,Probability Manipulation(MC),22,10,345
+40,Time Travel(MC),48,10,345
+41,Time Manipulation(MC),60,10,345
+42,Reality Manpulation(MC),56,10,345
+43,Dimensional Manipulation(MC),78,10,345
+44,Illusion Casting(MC),81,10,345
+45,Dummy10(MC),0,10,0
+46,Vampirism(MC),16,12,473
+47,Poisonous(MC),18,12,473
+48,Immortal(MC),132,12,473
+49,Invulnerability(MC),307,12,473
+50,Dummy12(MC),0,12,0
+51,Animation(MC),37,6,486
+52,Siphon Abilities(MC),43,6,486
+53,Siphon Lifeforce(MC),54,6,486
+54,Power Mimicry(MC),45,6,486
+55,Cosmic Awareness(MC),68,6,486
+56,Astral Projection(MC),74,6,486
+57,Divine Powers(MC),74,6,486
+58,Magic(MC),91,6,486
+59,Dummy6(MC),0,6,0
+60,Psychometry(MC),17,9,803
+61,Postcognition(MC),18,9,803
+62,Voice-induced Manipulation(MC),26,9,803
+63,Emotion Control(MC),34,9,803
+64,Mesmerize(MC),47,9,803
+65,Precognition(MC),47,9,803
+66,Empathy(MC),56,9,803
+67,Willpower-Based Constructs(MC),36,9,803
+68,Hypnosis(MC),63,9,803
+69,Psychic(MC),83,9,803
+70,Telekinesis(MC),94,9,803
+71,Psionic(MC),138,9,803
+72,Telepathy(MC),144,9,803
+73,Dummy9(MC),0,9,0
+74,Implants(MC),94,2,951
+75,Power Suit(MC),112,2,951
+76,Insanely Rich(MC),119,2,951
+77,Power Item(MC),105,2,951
+78,Gadgets(MC),234,2,951
+79,Weapon Master(MC),287,2,951
+80,Dummy2(MC),0,2,0
+81,Darkforce Manipulation(MC),30,5,1259
+82,Technopathy(MC),39,5,1259
+83,Electronic Disruption(MC),48,5,1259
+84,Radiation(MC),34,5,1259
+85,Holographic Projection(MC),31,5,1259
+86,Electricity Control(MC),68,5,1259
+87,Heat Generation(MC),86,5,1259
+88,Energy Based Constructs(MC),54,5,1259
+89,Light Projection(MC),74,5,1259
+90,Energy Shield(MC),98,5,1259
+91,Energy-Enhanced Strike(MC),114,5,1259
+92,Energy Absorption(MC),128,5,1259
+93,Energy Manipulation(MC),142,5,1259
+94,Blast Power(MC),313,5,1259
+95,Dummy5(MC),0,5,0
+96,Prehensile Hair(MC),2,3,1455
+97,Shadowmeld(MC),10,3,1455
+98,Chemical Absorbtion(MC),14,3,1455
+99,Sonic Scream(MC),9,3,1455
+100,Webslinger(MC),26,3,1455
+101,Chemical Secretion(MC),38,3,1455
+102,Wall Clinger(MC),49,3,1455
+103,Duplication(MC),30,3,1455
+104,Matter Absorption(MC),45,3,1455
+105,Elasticity(MC),39,3,1455
+106,Heat Vision(MC),30,3,1455
+107,Sub-Mariner(MC),39,3,1455
+108,Chameleon(MC),52,3,1455
+109,Invisibility(MC),57,3,1455
+110,Phasing / Ghost(MC),55,3,1455
+111,Size Manipulation(MC),91,3,1455
+112,Levitation(MC),97,3,1455
+113,Feral(MC),109,3,1455
+114,Claws(MC),121,3,1455
+115,Adaptive(MC),117,3,1455
+116,Teleport(MC),138,3,1455
+117,Flight(MC),287,3,1455
+118,Dummy3(MC),0,3,0
+119,Synaesthesia(MC),5,4,2285
+120,Omni-lingual(MC),45,4,2285
+121,Swordsmanship(MC),120,4,2285
+122,Escape Artist(MC),115,4,2285
+123,Tracking(MC),159,4,2285
+124,Stealth(MC),172,4,2285
+125,Marksmanship(MC),217,4,2285
+126,Leadership(MC),290,4,2285
+127,Intellect(MC),504,4,2285
+128,Unarmed Combat(MC),658,4,2285
+129,Dummy4(MC),0,4,0
+130,Super Eating(MC),14,1,2690
+131,Super Smell(MC),84,1,2690
+132,Super Hearing(MC),125,1,2690
+133,Berserker Strength(MC),137,1,2690
+134,Super Sight(MC),156,1,2690
+135,Longevity(MC),214,1,2690
+136,Super Speed(MC),278,1,2690
+137,Healing(MC),282,1,2690
+138,Super Strength(MC),460,1,2690
+139,Agility(MC),468,1,2690
+140,Stamina(MC),472,1,2690
+141,Dummy1(MC),0,1,0
+142,Stamina(DC),419,1,2056
+143,Agility(DC),380,1,2056
+144,Super Strength(DC),322,1,2056
+145,Healing(DC),197,1,2056
+146,Super Speed(DC),198,1,2056
+147,Longevity(DC),160,1,2056
+148,Super Sight(DC),111,1,2056
+149,Berserker Strength(DC),90,1,2056
+150,Super Hearing(DC),95,1,2056
+151,Super Smell(DC),68,1,2056
+152,Super Eating(DC),16,1,2056
+153,Dummy1(DC),0,1,0
+154,Unarmed Combat(DC),497,4,2259
+155,Intellect(DC),502,4,2259
+156,Leadership(DC),303,4,2259
+157,Marksmanship(DC),231,4,2259
+158,Stealth(DC),254,4,2259
+159,Tracking(DC),207,4,2259
+160,Escape Artist(DC),109,4,2259
+161,Swordsmanship(DC),95,4,2259
+162,Omni-lingual(DC),59,4,2259
+163,Synaesthesia(DC),2,4,2259
+164,Dummy4(DC),0,4,0
+165,Flight(DC),320,3,1177
+166,Teleport(DC),99,3,1177
+167,Adaptive(DC),79,3,1177
+168,Claws(DC),71,3,1177
+169,Feral(DC),64,3,1177
+170,Levitation(DC),68,3,1177
+171,Size Manipulation(DC),68,3,1177
+172,Phasing / Ghost(DC),97,3,1177
+173,Invisibility(DC),62,3,1177
+174,Chameleon(DC),33,3,1177
+175,Sub-Mariner(DC),36,3,1177
+176,Heat Vision(DC),42,3,1177
+177,Elasticity(DC),28,3,1177
+178,Matter Absorption(DC),20,3,1177
+179,Duplication(DC),30,3,1177
+180,Wall Clinger(DC),10,3,1177
+181,Chemical Secretion(DC),13,3,1177
+182,Webslinger(DC),1,3,1177
+183,Sonic Scream(DC),18,3,1177
+184,Chemical Absorbtion(DC),9,3,1177
+185,Shadowmeld(DC),7,3,1177
+186,Prehensile Hair(DC),2,3,1177
+187,Dummy3(DC),0,3,0
+188,Blast Power(DC),230,5,989
+189,Energy Manipulation(DC),115,5,989
+190,Energy Absorption(DC),88,5,989
+191,Energy-Enhanced Strike(DC),84,5,989
+192,Energy Shield(DC),75,5,989
+193,Light Projection(DC),71,5,989
+194,Energy Based Constructs(DC),86,5,989
+195,Heat Generation(DC),49,5,989
+196,Electricity Control(DC),55,5,989
+197,Holographic Projection(DC),42,5,989
+198,Radiation(DC),31,5,989
+199,Electronic Disruption(DC),16,5,989
+200,Technopathy(DC),25,5,989
+201,Darkforce Manipulation(DC),22,5,989
+202,Dummy5(DC),0,5,0
+203,Weapon Master(DC),261,2,874
+204,Gadgets(DC),239,2,874
+205,Power Item(DC),159,2,874
+206,Insanely Rich(DC),102,2,874
+207,Power Suit(DC),72,2,874
+208,Implants(DC),41,2,874
+209,Dummy2(DC),0,2,0
+210,Telepathy(DC),105,9,560
+211,Psionic(DC),62,9,560
+212,Telekinesis(DC),82,9,560
+213,Psychic(DC),49,9,560
+214,Hypnosis(DC),53,9,560
+215,Willpower-Based Constructs(DC),76,9,560
+216,Empathy(DC),25,9,560
+217,Precognition(DC),30,9,560
+218,Mesmerize(DC),17,9,560
+219,Emotion Control(DC),23,9,560
+220,Voice-induced Manipulation(DC),17,9,560
+221,Postcognition(DC),11,9,560
+222,Psychometry(DC),10,9,560
+223,Dummy9(DC),0,9,0
+224,Magic(DC),95,6,361
+225,Divine Powers(DC),82,6,361
+226,Astral Projection(DC),56,6,361
+227,Cosmic Awareness(DC),49,6,361
+228,Power Mimicry(DC),23,6,361
+229,Siphon Lifeforce(DC),12,6,361
+230,Siphon Abilities(DC),22,6,361
+231,Animation(DC),22,6,361
+232,Dummy6(DC),0,6,0
+233,Invulnerability(DC),210,12,364
+234,Immortal(DC),133,12,364
+235,Poisonous(DC),12,12,364
+236,Vampirism(DC),9,12,364
+237,Dummy12(DC),0,12,0
+238,Illusion Casting(DC),72,10,320
+239,Dimensional Manipulation(DC),53,10,320
+240,Reality Manpulation(DC),67,10,320
+241,Time Manipulation(DC),54,10,320
+242,Time Travel(DC),59,10,320
+243,Probability Manipulation(DC),15,10,320
+244,Dummy10(DC),0,10,0
+245,Fire Control(DC),46,7,287
+246,Animal Control(DC),34,7,287
+247,Wind Bursts(DC),45,7,287
+248,Weather Control(DC),33,7,287
+249,Earth Manipulation(DC),19,7,287
+250,Ice Control(DC),26,7,287
+251,Water Control(DC),19,7,287
+252,Flame Breath(DC),18,7,287
+253,Ice Breath(DC),26,7,287
+254,Plant Control(DC),12,7,287
+255,Sand manipulation(DC),9,7,287
+256,Dummy7(DC),0,7,0
+257,Force Field(DC),140,8,263
+258,Density Control(DC),48,8,263
+259,Vibration Wave(DC),26,8,263
+260,Gravity control(DC),19,8,263
+261,Magnetism(DC),21,8,263
+262,Inertia Absorption(DC),9,8,263
+263,Dummy8(DC),0,8,0
+264,Shape Shifter(DC),98,11,139
+265,Genetic Manipulation(DC),17,11,139
+266,Enhance Mutation(DC),12,11,139
+267,Pheromone Control(DC),3,11,139
+268,Controlled Bone Growth(DC),4,11,139
+269,Blood Control(DC),5,11,139
+270,Dummy11(DC),0,11,0
+271,Possession(DC),36,14,130
+272,Necromancy(DC),26,14,130
+273,Death Touch(DC),19,14,130
+274,Darkness Manipulation(DC),23,14,130
+275,Soul Absorption(DC),16,14,130
+276,Hellfire Control(DC),8,14,130
+277,Penance Stare(DC),2,14,130
+278,Dummy14(DC),0,14,0
+279,Danger Sense(DC),26,13,97
+280,Radar Sense(DC),31,13,97
+281,Electronic interaction(DC),26,13,97
+282,Sense Death(DC),14,13,97
+283,Dummy13(DC),0,13,0
